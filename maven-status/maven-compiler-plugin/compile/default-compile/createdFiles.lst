@@ -1,6 +1,0 @@
-com\payu\payuServer\model\book.class
-com\payu\payuServer\PayuServerApplication.class
-com\payu\payuServer\controller\bookController.class
-com\payu\payuServer\service\bookService.class
-com\payu\payuServer\model\response.class
-com\payu\payuServer\repository\bookRepository.class
